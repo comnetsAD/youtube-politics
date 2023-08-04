@@ -5,7 +5,9 @@ These two files contain "fake news" headlines as reported by the fact checking w
 
 ## Ledwich_channelList.csv and Riberio_channelList.csv
 These two files contain the channelID's of the channels collected from previous research on the YouTube recommendation system, namely these two studies:
+
 Riberio et al.: https://arxiv.org/abs/1908.08313
+
 Ledwich et al.: https://firstmonday.org/ojs/index.php/fm/article/view/10419/9404
 
 ## videos.csv
